@@ -1,0 +1,7 @@
+* text eol=lf
+*.png binary
+*.jpg binary
+*.jar binary
+*.spvchain binary
+*.wallet binary
+*.pdf binary
